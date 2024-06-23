@@ -1,6 +1,6 @@
 
 ![](https://hermes.dio.me/tracks/648ef080-6c4b-4e54-bf72-34f62030f350.png)
-# Criando um Sistema Bancário com Python - [Python AI Backend Developer](https://web.dio.me/track/coding-future-vivo-python-ai-backend-developer/)
+# Criando um Sistema Bancário com Python 
 
 ## DESAFIO
 Fomos contratados por um grande banco para desenvolver o seu novo sistema.
